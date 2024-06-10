@@ -8,20 +8,20 @@
 ------
 
 <div align="center">
-    <a href="https://github.com/QianFuv/Miracles-Journey/releases"><img alt="" src="https://img.shields.io/github/release-date/QianFuv/Miracles-Journey?display_date=published_at&style=for-the-badge"></a>
-    <a href="https://github.com/QianFuv/Miracles-Journey/commits/pack"><img alt="" src="https://img.shields.io/github/last-commit/QianFuv/Miracles-Journey/pack?style=for-the-badge"></a>
-    <a href="https://github.com/QianFuv/Miracles-Journey/releases"><img alt="" src="https://img.shields.io/github/release-date-pre/QianFuv/Miracles-Journey?style=for-the-badge&label=PRE%20RELEASE%20DATE"></a>
+    <a href="https://github.com/WaxingMoonStudio/Miracles-Journey-Pack/releases"><img alt="" src="https://img.shields.io/github/release-date/WaxingMoonStudio/Miracles-Journey-Pack?display_date=published_at&style=for-the-badge"></a>
+    <a href="https://github.com/WaxingMoonStudio/Miracles-Journey-Pack/commits/main"><img alt="" src="https://img.shields.io/github/last-commit/WaxingMoonStudio/Miracles-Journey-Pack/main?style=for-the-badge"></a>
+    <a href="https://github.com/WaxingMoonStudio/Miracles-Journey-Pack/releases"><img alt="" src="https://img.shields.io/github/release-date-pre/WaxingMoonStudio/Miracles-Journey-Pack?style=for-the-badge&label=PRE%20RELEASE%20DATE"></a>
 </div>
 <div align="center">
-    <a href="https://github.com/QianFuv/Miracles-Journey/issues?q=is%3Aissue+is%3Aopen"><img alt="" src="https://img.shields.io/github/issues/QianFuv/Miracles-Journey?style=for-the-badge"></a>
-    <a href="https://github.com/QianFuv/Miracles-Journey/issues?q=is%3Aissue+is%3Aclosed"><img alt="" src="https://img.shields.io/github/issues-closed/QianFuv/Miracles-Journey?style=for-the-badge"></a>
-    <a href="https://github.com/QianFuv/Miracles-Journey/pulls?q=is%3Apr+is%3Aopen"><img alt="" src="https://img.shields.io/github/issues-pr/QianFuv/Miracles-Journey?style=for-the-badge"></a>
-    <a href="https://github.com/QianFuv/Miracles-Journey/pulls?q=is%3Apr+is%3Aclosed"><img alt="" src="https://img.shields.io/github/issues-pr-closed/QianFuv/Miracles-Journey?style=for-the-badge"></a>
+    <a href="https://github.com/WaxingMoonStudio/Miracles-Journey-Pack/issues?q=is%3Aissue+is%3Aopen"><img alt="" src="https://img.shields.io/github/issues/WaxingMoonStudio/Miracles-Journey-Pack?style=for-the-badge"></a>
+    <a href="https://github.com/WaxingMoonStudio/Miracles-Journey-Pack/issues?q=is%3Aissue+is%3Aclosed"><img alt="" src="https://img.shields.io/github/issues-closed/WaxingMoonStudio/Miracles-Journey-Pack?style=for-the-badge"></a>
+    <a href="https://github.com/WaxingMoonStudio/Miracles-Journey-Pack/pulls?q=is%3Apr+is%3Aopen"><img alt="" src="https://img.shields.io/github/issues-pr/WaxingMoonStudio/Miracles-Journey-Pack?style=for-the-badge"></a>
+    <a href="https://github.com/WaxingMoonStudio/Miracles-Journey-Pack/pulls?q=is%3Apr+is%3Aclosed"><img alt="" src="https://img.shields.io/github/issues-pr-closed/WaxingMoonStudio/Miracles-Journey-Pack?style=for-the-badge"></a>
 </div>
 <div align="center">
-    <a href="https://github.com/QianFuv/Miracles-Journey/stargazers"><img alt="" src="https://img.shields.io/github/stars/QianFuv/Miracles-Journey?style=for-the-badge"></a>
-    <a href="https://github.com/QianFuv/Miracles-Journey"><img alt="" src="https://img.shields.io/github/repo-size/QianFuv/Miracles-Journey?style=for-the-badge"></a>
-    <a href="https://github.com/QianFuv/Miracles-Journey/blob/home/LICENSE.md"><img alt="" src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-blue.svg?style=for-the-badge" height="28"/></a>
+    <a href="https://github.com/WaxingMoonStudio/Miracles-Journey-Pack/stargazers"><img alt="" src="https://img.shields.io/github/stars/WaxingMoonStudio/Miracles-Journey-Pack?style=for-the-badge"></a>
+    <a href="https://github.com/WaxingMoonStudio/Miracles-Journey-Pack"><img alt="" src="https://img.shields.io/github/repo-size/WaxingMoonStudio/Miracles-Journey-Pack?style=for-the-badge"></a>
+    <a href="https://github.com/WaxingMoonStudio/Miracles-Journey-Pack/blob/main/LICENSE.md"><img alt="" src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-blue.svg?style=for-the-badge" height="28"/></a>
 </div>
 
 ------
@@ -33,24 +33,24 @@
 <br/>
 
 <div align="center">
-    <strong><a href="https://github.com/QianFuv/Miracles-Journey/blob/pack/DISCLAIMER.md">免责声明</a> - </strong>
+    <strong><a href="https://github.com/WaxingMoonStudio/Miracles-Journey-Pack/blob/main/DISCLAIMER.md">免责声明</a> - </strong>
     <strong><a href="https://mjwiki.qianf.fun/">帮助文档</a> - </strong>
-    <strong><a href="https://github.com/QianFuv/Miracles-Journey/blob/pack/CHANGELOG.md">更新日志</a> - </strong>
-    <strong><a href="https://github.com/QianFuv/Miracles-Journey/blob/home/CONTRIBUTING.md">贡献列表</a> - </strong>
-    <strong><a href="https://github.com/QianFuv/Miracles-Journey/blob/home/CODE_OF_CONDUCT.md">贡献指南</a> - </strong>
-    <strong><a href="https://github.com/QianFuv/Miracles-Journey/blob/home/LICENSE.md">开放协议</a> - </strong>
-    <strong><a href="https://github.com/QianFuv/Miracles-Journey/blob/home/SECURITY.md">安全政策</a> - </strong>
-    <strong><a href="https://github.com/QianFuv/Miracles-Journey/blob/pack/TODO.md">待办事项</a></strong>
+    <strong><a href="https://github.com/WaxingMoonStudio/Miracles-Journey-Pack/blob/main/CHANGELOG.md">更新日志</a> - </strong>
+    <strong><a href="https://github.com/WaxingMoonStudio/Miracles-Journey-Home/blob/main/CONTRIBUTING.md">贡献列表</a> - </strong>
+    <strong><a href="https://github.com/WaxingMoonStudio/Miracles-Journey-Home/blob/main/CODE_OF_CONDUCT.md">贡献指南</a> - </strong>
+    <strong><a href="https://github.com/WaxingMoonStudio/Miracles-Journey-Home/blob/main/LICENSE.md">开放协议</a> - </strong>
+    <strong><a href="https://github.com/WaxingMoonStudio/Miracles-Journey-Home/blob/main/SECURITY.md">安全政策</a> - </strong>
+    <strong><a href="https://github.com/WaxingMoonStudio/Miracles-Journey-Pack/blob/main/TODO.md">待办事项</a></strong>
 </div>
 
 ------
 
 <div align="center">
-    <a href="https://github.com/QianFuv/Miracles-Journey/stargazers">
+    <a href="https://github.com/WaxingMoonStudio/Miracles-Journey-Pack/stargazers">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=QianFuv/Miracles-Journey&type=Date&theme=dark" />
-            <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=QianFuv/Miracles-Journey&type=Date" />
-            <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=QianFuv/Miracles-Journey&type=Date" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=WaxingMoonStudio/Miracles-Journey-Pack&type=Date&theme=dark" />
+            <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=WaxingMoonStudio/Miracles-Journey-Pack&type=Date" />
+            <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=WaxingMoonStudio/Miracles-Journey-Pack&type=Date" />
         </picture>
     </a>
 </div>
