@@ -45,14 +45,12 @@
 
 ------
 
-<div align="center">
-    <a href="https://github.com/WaxingMoonStudio/Miracles-Journey-Pack/stargazers">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=WaxingMoonStudio/Miracles-Journey-Pack&type=Date&theme=dark" />
-            <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=WaxingMoonStudio/Miracles-Journey-Pack&type=Date" />
-            <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=WaxingMoonStudio/Miracles-Journey-Pack&type=Date" />
-        </picture>
-    </a>
-</div>
+<a href="https://star-history.com/#WaxingMoonStudio/Miracles-Journey-Home&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=WaxingMoonStudio/Miracles-Journey-Home&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=WaxingMoonStudio/Miracles-Journey-Home&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=WaxingMoonStudio/Miracles-Journey-Home&type=Date" />
+ </picture>
+</a>
 
 ------
