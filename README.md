@@ -21,7 +21,7 @@
 <div align="center">
     <a href="https://github.com/WaxingMoonStudio/Miracles-Journey-Pack/stargazers"><img alt="" src="https://img.shields.io/github/stars/WaxingMoonStudio/Miracles-Journey-Pack?style=for-the-badge"></a>
     <a href="https://github.com/WaxingMoonStudio/Miracles-Journey-Pack"><img alt="" src="https://img.shields.io/github/repo-size/WaxingMoonStudio/Miracles-Journey-Pack?style=for-the-badge"></a>
-    <a href="https://github.com/WaxingMoonStudio/Miracles-Journey-Pack/blob/main/LICENSE.md"><img alt="" src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-blue.svg?style=for-the-badge" height="28"/></a>
+    <a href="https://github.com/WaxingMoonStudio/Miracles-Journey-Home/blob/main/LICENSE.md"><img alt="" src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-blue.svg?style=for-the-badge" height="28"/></a>
 </div>
 
 ------
